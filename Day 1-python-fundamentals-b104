@@ -1,0 +1,130 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c646cd64-ea61-43d0-bb6f-0de8df870494",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(\"Hello all welcome to the python programing world\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4096d170-96d1-4a27-b37b-a6e74756e969",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2a035a69-6fed-45a3-9b53-8d96b77c4bd6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1b4a2f6e-5caf-44ec-a31f-5d627867e9d8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2bcb24df-0fe0-46a6-a2bf-ae01ae546e95",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "0e0eff5e-309c-4220-b1fb-14c029d8484a",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "unterminated string literal (detected at line 1) (3474576738.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "  \u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[1]\u001b[39m\u001b[32m, line 1\u001b[39m\n\u001b[31m    \u001b[39m\u001b[31mprint(\"Hello world)\u001b[39m\n          ^\n\u001b[31mSyntaxError\u001b[39m\u001b[31m:\u001b[39m unterminated string literal (detected at line 1)\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello world)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "f40d949f-d88b-44ea-aa53-f3c88104737f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello all welcome to the python programing world\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello all welcome to the python programing world\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "07dc089b-56b4-4be0-ae3b-b404c90e3609",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello world\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello world\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "86cf006c-0e31-40fa-90c3-147faf440bc0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-ai-2025.12-py312",
+   "language": "python",
+   "name": "conda-env-anaconda-ai-2025.12-py312-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
